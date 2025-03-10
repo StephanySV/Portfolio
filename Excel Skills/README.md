@@ -22,7 +22,8 @@ Se aplicaron diversas funciones y herramientas de Excel para extraer informació
 
     #### *Creación de campo calculado*
    
-  ![image](https://github.com/user-attachments/assets/35da696b-36dd-4163-874a-2c70ae334111)
+    ![image](https://github.com/user-attachments/assets/58c4f2e7-c538-4f30-aaa4-99b81f2ea01f)
+
 
 
     #### *Algunas formulas utilizadas* 
@@ -40,7 +41,8 @@ Para representar los hallazgos de manera clara y comprensible, se utilizaron:
 - Segmentaciones de datos, facilitando el filtrado y análisis específico de cada variable.
 
     #### *Creación de graficas y segmentadores*
-     ![image](https://github.com/user-attachments/assets/f58ae79c-8ed5-43f9-a5cb-f5344ecc1c71)
+     ![image](https://github.com/user-attachments/assets/acec1fbd-39b7-4598-a676-4b37032ad6fa)
+
 
 
 ### 📈 6. Conclusiones y Resultados
@@ -88,8 +90,8 @@ Various Excel functions and tools were applied to extract key insights, includin
 
 
     #### *Calculated field creation*
+   ![image](https://github.com/user-attachments/assets/2d21efca-b5cf-4e50-90d1-b57679eb32e1)
 
-   ![image](https://github.com/user-attachments/assets/0cbe88c4-c6f1-49a7-a065-c7b4b55c13bd)
 
     #### *Some used formulas* 
 
@@ -105,7 +107,8 @@ To represent the findings clearly and comprehensively, the following tools were 
 - Data slicers, facilitating filtering and specific variable analysis.
 
     #### *Creating graphs and slicers*
-    ![image](https://github.com/user-attachments/assets/05a676cd-bb48-4161-8d55-3ea4e39cfc03)
+    ![image](https://github.com/user-attachments/assets/8df47ae5-69e2-43ed-ac3d-2727c51473a5)
+
 
 
 ### 📈 6. Conclusions and Results
